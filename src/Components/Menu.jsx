@@ -20,13 +20,13 @@ const Menu = () => {
     <nav>
       {open ? (
         <MdOutlineClose
-          className="text-white"
+          className="text-black"
           size="2rem"
           onClick={() => setOpen(false)}
         />
       ) : (
         <IoIosArrowDropdown
-          className="text-white"
+          className="text-black"
           size="2rem"
           onClick={() => setOpen(true)}
         />
