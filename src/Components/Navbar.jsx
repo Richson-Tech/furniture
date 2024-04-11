@@ -5,9 +5,9 @@ import { MdExposureZero } from "react-icons/md";
 
 const Navbar = () => {
   return (
-    <nav className="bg-gray-800 p-4 flex justify-between items-center">
+    <nav className="bg-white p-4 flex justify-between items-center">
       {/* Left content */}
-      <div className="text-white font-[Actor]">LOTRADE</div>
+      <div className="text-black font-[Actor]">LOTRADE</div>
 
       {/* Right content */}
       <div className="flex items-center">
