@@ -12,7 +12,7 @@ const Navbar = () => {
       {/* Right content */}
       <div className="flex items-center">
         {/* Cart */}
-        <div className="flex flex-row text-white mr-4">
+        <div className="flex flex-row text-black mr-4">
           <h6>Cart</h6>
           <RiShoppingCartLine size={24} />
           <MdExposureZero />
