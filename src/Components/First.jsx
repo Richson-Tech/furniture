@@ -1,6 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import { CgShapeHalfCircle } from "react-icons/cg";
+import { AiOutlineArrowRight } from "react-icons/ai";
 
 const First = () => {
   return (
@@ -167,6 +168,26 @@ const First = () => {
         <div className="pl-5">
           <h2 className="text-2xl font-[Roboto]">New Modern Workspace</h2>
           <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/hash.jpeg"
+          alt="furnitures"
+          width={1300}
+          height={854}
+          className="mt-20"
+        />
+        <div className="pl-5 pr-4 mt-10">
+          <h2 className="text-3xl text-center font-[Actor] pt-2 font-semibold">
+            Subscribe to Newsletter
+          </h2>
+          <div className="flex items-center border-b-2 mt-5 border-black py-2 pr-5">
+            <input
+              type="email"
+              placeholder="Your Email"
+              className="outline-none flex-1"
+            />
+            <AiOutlineArrowRight className="text-black cursor-pointer" />
+          </div>
         </div>
       </div>
     </div>
