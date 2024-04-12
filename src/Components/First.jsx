@@ -113,6 +113,72 @@ const First = () => {
           <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
           <p className="text-xs pt-2">DESIGN INTERIOR</p>
         </div>
+        <Image
+          src="/2.jpg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">The Moscow Apartment</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/3.jpg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/seven.jpeg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/seven.jpeg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/seven.jpeg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/seven.jpeg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
       </div>
     </div>
   );
