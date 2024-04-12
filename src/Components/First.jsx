@@ -192,13 +192,13 @@ const First = () => {
         </div>
 
         {/* find store  */}
-        <div className="flex items-center bg-gray-200 p-4 rounded-lg">
+        <div className="flex mt-5 ml-5 mr-5 border-2 border-black items-center p-4 rounded-lg">
           <div>
             <p className="text-lg font-bold">First Paragraph</p>
             <p className="text-sm text-gray-600">Second Paragraph</p>
           </div>
           <div className="ml-4">
-            <ArrowRight className="text-gray-600 w-6 h-6" />
+            <AiOutlineArrowRight className="text-gray-600 w-6 h-6" />
           </div>
         </div>
       </div>
