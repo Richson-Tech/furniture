@@ -212,6 +212,14 @@ const First = () => {
             we made for all furniture stores & brands.
           </p>
           <h6 className="text-black font-[Actor] mt-5">FB. TW. IN. BE. DR.</h6>
+          {/* studio */}
+          <h6 className="text-black font-[Actor] mt-5">Studio</h6>
+          <p className="text-base pr-3 font-extralight mt-2">Visit our Store</p>
+          <p className="text-base pr-3 font-extralight mt-2">About Us</p>
+          <p className="text-base pr-3 font-extralight mt-2"> Our Blog</p>
+          <p className="text-base pr-3 font-extralight mt-2"> Craftsmanship </p>
+          <p className="text-base pr-3 font-extralight mt-2">Apply For a Job</p>
+
           <h6 className="text-black font-[Actor] mt-5">Studio</h6>
           <p className="text-base pr-3 font-extralight mt-2">Visit our Store</p>
           <p className="text-base pr-3 font-extralight mt-2">About Us</p>
