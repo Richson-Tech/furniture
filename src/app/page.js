@@ -1,9 +1,9 @@
-// import First from "@/components/First";
+import First from "@/components/First";
 
 export default function Home() {
   return (
     <main>
-      {/* <First /> */}
+      <First />
     </main>
   );
 }
