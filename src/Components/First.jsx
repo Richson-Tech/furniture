@@ -14,7 +14,7 @@ const First = () => {
         />
         <div className="pl-5">
           <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
-          <p className="text-xs">INTERIOR, PICKS</p>
+          <p className="text-xs pt-2">INTERIOR, PICKS</p>
         </div>
         <Image
           src="/one.jpeg"
@@ -25,7 +25,7 @@ const First = () => {
         />
         <div className="pl-5">
           <h2 className="text-2xl font-[Roboto]">Natural Tones Interior</h2>
-          <p className="text-xs">INTERIOR, PICKS</p>
+          <p className="text-xs pt-2">INTERIOR, PICKS</p>
         </div>
         <Image
           src="/two.jpeg"
@@ -36,7 +36,7 @@ const First = () => {
         />
         <div className="pl-5">
           <h2 className="text-2xl font-[Roboto]">20Sq Micro Apartment</h2>
-          <p className="text-xs">INTERIOR, PICKS</p>
+          <p className="text-xs pt-2">INTERIOR, PICKS</p>
         </div>
         <Image
           src="/three.jpeg"
@@ -47,7 +47,7 @@ const First = () => {
         />
         <div className="pl-5">
           <h2 className="text-2xl font-[Roboto]">House on Banks of Aare</h2>
-          <p className="text-xs">INTERIOR, PICKS</p>
+          <p className="text-xs pt-2">INTERIOR, PICKS</p>
         </div>
         <Image
           src="/four.jpeg"
@@ -58,8 +58,11 @@ const First = () => {
         />
         <div className="pl-5">
           <h2 className="text-2xl font-[Roboto]">Cottage House on Apex Hill</h2>
-          <p className="text-xs">INTERIOR, PICKS</p>
-        </div>
+          <p className="text-xs pt-2">INTERIOR, PICKS</p>
+              </div>
+              {/* the hash picture  */}
+
+              
       </div>
     </div>
   );
