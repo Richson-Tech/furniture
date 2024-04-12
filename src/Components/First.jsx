@@ -6,7 +6,7 @@ import { MdArrowForward, MdArrowOutward } from "react-icons/md";
 
 const First = () => {
   return (
-    <div className="h-max w-full pb-32">
+    <div className="h-max w-full">
       <div className="flex flex-col pb-0">
         <Image
           src="/1.jpg"
