@@ -2,6 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { CgShapeHalfCircle } from "react-icons/cg";
 import { AiOutlineArrowRight } from "react-icons/ai";
+import { ArrowRight } from "react-icons/fa";
 
 const First = () => {
   return (
@@ -188,10 +189,18 @@ const First = () => {
             />
             <AiOutlineArrowRight className="text-black cursor-pointer" />
           </div>
-              </div>
-              
-              {/* find store  */}
-              
+        </div>
+
+        {/* find store  */}
+        <div className="flex items-center bg-gray-200 p-4 rounded-lg">
+          <div>
+            <p className="text-lg font-bold">First Paragraph</p>
+            <p className="text-sm text-gray-600">Second Paragraph</p>
+          </div>
+          <div className="ml-4">
+            <ArrowRight className="text-gray-600 w-6 h-6" />
+          </div>
+        </div>
       </div>
     </div>
   );
