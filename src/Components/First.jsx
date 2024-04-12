@@ -12,6 +12,8 @@ const First = () => {
           height={295}
           className="object-center object-cover p-5"
         />
+              <h2 className="text-2xl">Berlin Studio Apartment</h2>
+              <p>INTERIOR, PICKS</p>
         <Image
           src="/one.jpeg"
           alt="furnitures"
