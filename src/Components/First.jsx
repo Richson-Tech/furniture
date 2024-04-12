@@ -24,7 +24,7 @@ const First = () => {
           className="object-center object-cover p-5"
         />
         <div className="pl-5">
-          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <h2 className="text-2xl font-[Roboto]">Natural Tones Interior</h2>
           <p className="text-xs">INTERIOR, PICKS</p>
         </div>
         <Image
@@ -35,7 +35,7 @@ const First = () => {
           className="object-center object-cover p-5"
         />
         <div className="pl-5">
-          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <h2 className="text-2xl font-[Roboto]">20Sq Micro Apartment</h2>
           <p className="text-xs">INTERIOR, PICKS</p>
         </div>
         <Image
@@ -46,7 +46,7 @@ const First = () => {
           className="object-center object-cover p-5"
         />
         <div className="pl-5">
-          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <h2 className="text-2xl font-[Roboto]">House on Banks of Aare</h2>
           <p className="text-xs">INTERIOR, PICKS</p>
         </div>
         <Image
@@ -57,7 +57,7 @@ const First = () => {
           className="object-center object-cover p-5"
         />
         <div className="pl-5">
-          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <h2 className="text-2xl font-[Roboto]">Cottage House on Apex Hill</h2>
           <p className="text-xs">INTERIOR, PICKS</p>
         </div>
       </div>
