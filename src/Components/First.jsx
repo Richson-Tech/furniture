@@ -23,6 +23,10 @@ const First = () => {
           height={295}
           className="object-center object-cover p-5"
         />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <p className="text-xs">INTERIOR, PICKS</p>
+        </div>
         <Image
           src="/two.jpeg"
           alt="furnitures"
@@ -30,6 +34,10 @@ const First = () => {
           height={295}
           className="object-center object-cover p-5"
         />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <p className="text-xs">INTERIOR, PICKS</p>
+        </div>
         <Image
           src="/three.jpeg"
           alt="furnitures"
@@ -37,6 +45,10 @@ const First = () => {
           height={295}
           className="object-center object-cover p-5"
         />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <p className="text-xs">INTERIOR, PICKS</p>
+        </div>
         <Image
           src="/four.jpeg"
           alt="furnitures"
@@ -44,6 +56,10 @@ const First = () => {
           height={295}
           className="object-center object-cover p-5"
         />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Berlin Studio Apartment</h2>
+          <p className="text-xs">INTERIOR, PICKS</p>
+        </div>
       </div>
     </div>
   );
