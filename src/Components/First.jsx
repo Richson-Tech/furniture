@@ -206,14 +206,14 @@ const First = () => {
 
         {/* logo part  */}
         <div className="flex flex-col pl-4 mt-5">
-          <h6 className="text-black font-[Actor]">LOTRADE</h6>
+          <h5 className="text-black font-[Actor]">LOTRADE</h5>
           <p className="text-base pr-3 font-extralight mt-5">
             Welcome to a place of refinement and beauty. This is Umeå, a WP gem
             we made for all furniture stores & brands.
           </p>
           <h6 className="text-black font-[Actor] mt-5">FB. TW. IN. BE. DR.</h6>
           {/* studio */}
-          <h6 className="text-black font-[Actor] mt-5">Studio</h6>
+          <h5 className="text-black font-[Actor] mt-5">Studio</h5>
           <p className="text-base pr-3 font-extralight mt-2">Visit our Store</p>
           <p className="text-base pr-3 font-extralight mt-2">About Us</p>
           <p className="text-base pr-3 font-extralight mt-2"> Our Blog</p>
@@ -223,6 +223,22 @@ const First = () => {
           <h6 className="text-black font-[Actor] mt-5">Shopping</h6>
           <p className="text-base pr-3 font-extralight mt-2">Online Payments</p>
           <p className="text-base pr-3 font-extralight mt-2">Gift Cards</p>
+          <p className="text-base pr-3 font-extralight mt-2"> Return Policy</p>
+          <p className="text-base pr-3 font-extralight mt-2">
+            {" "}
+            Furniture Assembling{" "}
+          </p>
+          <p className="text-base pr-3 font-extralight mt-2">
+            Shipping Methods
+          </p>
+          {/* Payment method section  */}
+          <h5 className="text-black font-[Actor] mt-5">Payment Methods</h5>
+          <p className="text-base pr-3 font-extralight mt-2">
+            Select one of many supported payment
+          </p>
+          <p className="text-base pr-3 font-extralight mt-2">
+            providers from the list below.
+          </p>
           <p className="text-base pr-3 font-extralight mt-2"> Return Policy</p>
           <p className="text-base pr-3 font-extralight mt-2">
             {" "}
