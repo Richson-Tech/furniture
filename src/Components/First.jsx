@@ -232,7 +232,9 @@ const First = () => {
             Shipping Methods
           </p>
           {/* Payment method section  */}
-          <h5 className="text-black font-[Actor] text-lg mt-5">Payment Methods</h5>
+          <h5 className="text-black font-[Actor] text-lg mt-5">
+            Payment Methods
+          </h5>
           <p className="text-base pr-3 font-extralight mt-2">
             Select one of many supported payment
           </p>
@@ -247,10 +249,16 @@ const First = () => {
           <p className="text-base pr-3 font-extralight mt-2">
             Shipping Methods
           </p>
-              </div>
-              <div className="flex flex-row">
-                  
-              </div>
+        </div>
+        <div className="flex flex-row">
+          <Image
+            src="/group.png"
+            alt="furnitures"
+            width={435}
+            height={295}
+            className="ml-8 mt-10 mr-10"
+          />
+        </div>
       </div>
     </div>
   );
