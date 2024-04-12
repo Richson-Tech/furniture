@@ -79,6 +79,40 @@ const First = () => {
           <CgShapeHalfCircle className="text-black" size={30} />
           <p className="font-[Roboto] text-xl underline">View More</p>
         </div>
+        {/* after view more section */}
+        <Image
+          src="/five.jpeg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Miami Mainson Apartment</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/six.jpeg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Obsidian Virtual Concept</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
+        <Image
+          src="/seven.jpeg"
+          alt="furnitures"
+          width={435}
+          height={295}
+          className="object-center object-cover p-5"
+        />
+        <div className="pl-5">
+          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <p className="text-xs pt-2">DESIGN INTERIOR</p>
+        </div>
       </div>
     </div>
   );
