@@ -206,12 +206,12 @@ const First = () => {
 
         {/* logo part  */}
         <div className="flex flex-col pl-4 mt-5">
-          <h5 className="text-black font-[Actor]">LOTRADE</h5>
+          <h5 className="text-black font-[Roboto]">LOTRADE</h5>
           <p className="text-base pr-3 font-extralight mt-5">
             Welcome to a place of refinement and beauty. This is Umeå, a WP gem
             we made for all furniture stores & brands.
           </p>
-          <h6 className="text-black font-[Actor] mt-5">FB. TW. IN. BE. DR.</h6>
+          <h5 className="text-black font-[Actor] mt-5">FB. TW. IN. BE. DR.</h5>
           {/* studio */}
           <h5 className="text-black font-[Actor] mt-5">Studio</h5>
           <p className="text-base pr-3 font-extralight mt-2">Visit our Store</p>
