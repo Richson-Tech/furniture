@@ -68,6 +68,10 @@ const First = () => {
           height={854}
           className="mt-20"
         />
+        <div className="pl-5">
+          <p className="text-xs pt-2">IGEORGIA LONGDENBERG</p>
+          <h2 className="text-2xl font-[Roboto]">Cottage House on Apex Hill</h2>
+        </div>
       </div>
     </div>
   );
