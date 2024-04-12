@@ -192,7 +192,7 @@ const First = () => {
         </div>
 
         {/* find store  */}
-        <div className="flex mt-5 ml-5 mr-5 border-2 border-black items-center justify-between p-4 rounded-lg">
+        <div className="flex mt-5 ml-5 mr-5 mb-10 border-2 border-black items-center justify-between p-4 rounded-lg">
           <div>
             <p className="text-lg font-medium font-serif">
               Find a store <br /> nearby
@@ -202,6 +202,15 @@ const First = () => {
           <div>
             <MdArrowOutward className="text-gray-600" size={30} />
           </div>
+        </div>
+
+        {/* logo part  */}
+        <div className="flex flex-col pl-4">
+          <h6 className="text-black font-[Actor]">LOTRADE</h6>
+          <p>
+            Welcome to a place of refinement and beauty. This is Umeå, a WP gem
+            we made for all furniture stores & brands.
+          </p>
         </div>
       </div>
     </div>
