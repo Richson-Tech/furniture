@@ -258,12 +258,14 @@ const First = () => {
             height={295}
             className="ml-8 mt-10 mr-10"
           />
-              </div>
-              <hr className="border-black border-t-2 mt-16 mr-8 ml-8" />
-              <div className="flex flex-row pl-8">
-              &copy;<p className="text-base">2024 LOTRADE, All Rights Reserved</p> 
-              </div>
-
+        </div>
+        <hr className="border-black border-t-2 mt-16 mr-8 ml-8" />
+        <div className="flex flex-row pl-8 mt-3">
+          &copy;
+          <p className="text-sm font-extralight pl-1">
+            2024 LOTRADE, All Rights Reserved
+          </p>
+        </div>
       </div>
     </div>
   );
