@@ -211,16 +211,16 @@ const First = () => {
             Welcome to a place of refinement and beauty. This is Umeå, a WP gem
             we made for all furniture stores & brands.
           </p>
-          <h5 className="text-black font-[Actor] mt-5">FB. TW. IN. BE. DR.</h5>
+          <h5 className="text-black font-[Roboto] mt-5">FB. TW. IN. BE. DR.</h5>
           {/* studio */}
-          <h5 className="text-black font-[Actor] mt-5">Studio</h5>
+          <h5 className="text-black font-[Roboto] text-lg mt-5">Studio</h5>
           <p className="text-base pr-3 font-extralight mt-2">Visit our Store</p>
           <p className="text-base pr-3 font-extralight mt-2">About Us</p>
           <p className="text-base pr-3 font-extralight mt-2"> Our Blog</p>
           <p className="text-base pr-3 font-extralight mt-2"> Craftsmanship </p>
           <p className="text-base pr-3 font-extralight mt-2">Apply For a Job</p>
 
-          <h6 className="text-black font-[Actor] mt-5">Shopping</h6>
+          <h6 className="text-black font-[Actor] text-lg mt-5">Shopping</h6>
           <p className="text-base pr-3 font-extralight mt-2">Online Payments</p>
           <p className="text-base pr-3 font-extralight mt-2">Gift Cards</p>
           <p className="text-base pr-3 font-extralight mt-2"> Return Policy</p>
@@ -232,7 +232,7 @@ const First = () => {
             Shipping Methods
           </p>
           {/* Payment method section  */}
-          <h5 className="text-black font-[Actor] mt-5">Payment Methods</h5>
+          <h5 className="text-black font-[Actor] text-lg mt-5">Payment Methods</h5>
           <p className="text-base pr-3 font-extralight mt-2">
             Select one of many supported payment
           </p>
@@ -247,7 +247,10 @@ const First = () => {
           <p className="text-base pr-3 font-extralight mt-2">
             Shipping Methods
           </p>
-        </div>
+              </div>
+              <div className="flex flex-row">
+                  
+              </div>
       </div>
     </div>
   );
