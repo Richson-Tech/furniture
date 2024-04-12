@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { CgShapeHalfCircle } from "react-icons/cg";
 import { AiOutlineArrowRight } from "react-icons/ai";
-import { MdArrowForward, MdArrowOutward } from "react-icons/md";
+import { MdArrowOutward } from "react-icons/md";
 
 const First = () => {
   return (
