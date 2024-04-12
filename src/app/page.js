@@ -1,4 +1,4 @@
-import First from "../components/First"
+import First from "../../src/components/First"
 export default function Home() {
   return (
     <main>
