@@ -1,5 +1,6 @@
 import Image from "next/image";
 import React from "react";
+import { CgShapeHalfCircle } from "react-icons/cg";
 
 const First = () => {
   return (
@@ -73,6 +74,9 @@ const First = () => {
           <h2 className="text-4xl font-[Actor] pt-2 font-semibold">
             Decontextualizing interior décor for the emerging decade & beyond.
           </h2>
+        </div>
+        <div className="flex flex-row">
+          <CgShapeHalfCircle className="text-black" size={25} />
         </div>
       </div>
     </div>
