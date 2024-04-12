@@ -200,7 +200,7 @@ const First = () => {
             <p className="text-sm text-gray-600">Search for a store near you</p>
           </div>
           <div className="ml-4">
-            <AiOutlineArrowRight className="text-gray-600 w-6 h-6" />
+            <MdArrowOutward className="text-gray-600 w-6 h-6"/>
           </div>
         </div>
       </div>
