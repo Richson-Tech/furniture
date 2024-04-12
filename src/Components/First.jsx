@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { CgShapeHalfCircle } from "react-icons/cg";
 import { AiOutlineArrowRight } from "react-icons/ai";
-import { ArrowRight } from "react-icons/fa";
+import { MdArrowOutward } from "react-icons/md";
 
 const First = () => {
   return (
@@ -194,8 +194,10 @@ const First = () => {
         {/* find store  */}
         <div className="flex mt-5 ml-5 mr-5 border-2 border-black items-center p-4 rounded-lg">
           <div>
-            <p className="text-lg font-bold">First Paragraph</p>
-            <p className="text-sm text-gray-600">Second Paragraph</p>
+            <p className="text-lg font-medium font-serif">
+              Find a store <br /> nearby
+            </p>
+            <p className="text-sm text-gray-600">Search for a store near you</p>
           </div>
           <div className="ml-4">
             <AiOutlineArrowRight className="text-gray-600 w-6 h-6" />
