@@ -1,4 +1,4 @@
-import First from "@/Components/First";
+import First from "@/components/First";
 import Image from "next/image";
 
 export default function Home() {
