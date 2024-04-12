@@ -220,12 +220,17 @@ const First = () => {
           <p className="text-base pr-3 font-extralight mt-2"> Craftsmanship </p>
           <p className="text-base pr-3 font-extralight mt-2">Apply For a Job</p>
 
-          <h6 className="text-black font-[Actor] mt-5">Studio</h6>
-          <p className="text-base pr-3 font-extralight mt-2">Visit our Store</p>
-          <p className="text-base pr-3 font-extralight mt-2">About Us</p>
-          <p className="text-base pr-3 font-extralight mt-2"> Our Blog</p>
-          <p className="text-base pr-3 font-extralight mt-2"> Craftsmanship </p>
-          <p className="text-base pr-3 font-extralight mt-2">Apply For a Job</p>
+          <h6 className="text-black font-[Actor] mt-5">Shopping</h6>
+          <p className="text-base pr-3 font-extralight mt-2">Online Payments</p>
+          <p className="text-base pr-3 font-extralight mt-2">Gift Cards</p>
+          <p className="text-base pr-3 font-extralight mt-2"> Return Policy</p>
+          <p className="text-base pr-3 font-extralight mt-2">
+            {" "}
+            Furniture Assembling{" "}
+          </p>
+          <p className="text-base pr-3 font-extralight mt-2">
+            Shipping Methods
+          </p>
         </div>
       </div>
     </div>
