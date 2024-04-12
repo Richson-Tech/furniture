@@ -205,12 +205,17 @@ const First = () => {
         </div>
 
         {/* logo part  */}
-        <div className="flex flex-col pl-4">
+        <div className="flex flex-col pl-4 mt-5">
           <h6 className="text-black font-[Actor]">LOTRADE</h6>
-          <p>
+          <p className="text-base pr-3 font-extralight mt-5">
             Welcome to a place of refinement and beauty. This is Umeå, a WP gem
             we made for all furniture stores & brands.
           </p>
+          <h6 className="text-black font-[Actor] mt-5">FB. TW. IN. BE. DR.</h6>
+          <h6 className="text-black font-[Actor] mt-5">Studio</h6>
+          <p className="text-base pr-3 font-extralight mt-5">Visit our Store</p>
+          <p className="text-base pr-3 font-extralight mt-5"></p>
+          About Us Our Blog Craftsmanship Apply For a Job
         </div>
       </div>
     </div>
