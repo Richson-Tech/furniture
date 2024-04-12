@@ -147,36 +147,25 @@ const First = () => {
           <p className="text-xs pt-2">DESIGN INTERIOR</p>
         </div>
         <Image
-          src="/seven.jpeg"
+          src="/5.jpg"
           alt="furnitures"
           width={435}
           height={295}
           className="object-center object-cover p-5"
         />
         <div className="pl-5">
-          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <h2 className="text-2xl font-[Roboto]">Emerging Beauty Brands</h2>
           <p className="text-xs pt-2">DESIGN INTERIOR</p>
         </div>
         <Image
-          src="/seven.jpeg"
+          src="/6.jpg"
           alt="furnitures"
           width={435}
           height={295}
           className="object-center object-cover p-5"
         />
         <div className="pl-5">
-          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
-          <p className="text-xs pt-2">DESIGN INTERIOR</p>
-        </div>
-        <Image
-          src="/seven.jpeg"
-          alt="furnitures"
-          width={435}
-          height={295}
-          className="object-center object-cover p-5"
-        />
-        <div className="pl-5">
-          <h2 className="text-2xl font-[Roboto]">Office of Tangible Space</h2>
+          <h2 className="text-2xl font-[Roboto]">New Modern Workspace</h2>
           <p className="text-xs pt-2">DESIGN INTERIOR</p>
         </div>
       </div>
