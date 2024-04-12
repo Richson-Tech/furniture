@@ -258,7 +258,12 @@ const First = () => {
             height={295}
             className="ml-8 mt-10 mr-10"
           />
-        </div>
+              </div>
+              <hr className="border-black border-t-2 mt-16 mr-8 ml-8" />
+              <div className="flex flex-row">
+              &copy;
+              </div>
+
       </div>
     </div>
   );
