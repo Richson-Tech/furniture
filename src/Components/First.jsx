@@ -188,7 +188,10 @@ const First = () => {
             />
             <AiOutlineArrowRight className="text-black cursor-pointer" />
           </div>
-        </div>
+              </div>
+              
+              {/* find store  */}
+              
       </div>
     </div>
   );
