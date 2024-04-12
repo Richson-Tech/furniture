@@ -75,9 +75,9 @@ const First = () => {
             Decontextualizing interior décor for the emerging decade & beyond.
           </h2>
         </div>
-        <div className="flex flex-row pl-5">
-                  <CgShapeHalfCircle className="text-black" size={25} />
-                  <p className="text-sm font-[Roboto]">View More</p>
+        <div className="flex flex-row pl-3 mt-3 space-x-0">
+          <CgShapeHalfCircle className="text-black" size={30} />
+          <p className="font-[Roboto] text-xl underline">View More</p>
         </div>
       </div>
     </div>
