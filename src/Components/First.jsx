@@ -68,11 +68,10 @@ const First = () => {
           height={854}
           className="mt-20"
         />
-        <div className="pl-5">
-          <p className="text-xs pt-2">IGEORGIA LONGDENBERG</p>
-          <h2 className="text-2xl font-[Roboto]">
-           Decontextualizing interior décor for the
-            emerging decade & beyond.
+        <div className="pl-5 mt-5">
+          <p className="text-xs pt-2 font-sans">IGEORGIA LONGDENBERG</p>
+          <h2 className="text-4xl font-[Actor] pt-2 font-semibold">
+            Decontextualizing interior décor for the emerging decade & beyond.
           </h2>
         </div>
       </div>
