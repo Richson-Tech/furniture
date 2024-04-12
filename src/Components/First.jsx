@@ -70,7 +70,10 @@ const First = () => {
         />
         <div className="pl-5">
           <p className="text-xs pt-2">IGEORGIA LONGDENBERG</p>
-          <h2 className="text-2xl font-[Roboto]">Cottage House on Apex Hill</h2>
+          <h2 className="text-2xl font-[Roboto]">
+           Decontextualizing interior décor for the
+            emerging decade & beyond.
+          </h2>
         </div>
       </div>
     </div>
