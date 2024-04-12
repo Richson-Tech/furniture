@@ -59,10 +59,15 @@ const First = () => {
         <div className="pl-5">
           <h2 className="text-2xl font-[Roboto]">Cottage House on Apex Hill</h2>
           <p className="text-xs pt-2">INTERIOR, PICKS</p>
-              </div>
-              {/* the hash picture  */}
-
-              
+        </div>
+        {/* the hash picture  */}
+        <Image
+          src="/hash.jpeg"
+          alt="furnitures"
+          width={1300}
+          height={854}
+          className="mt-20"
+        />
       </div>
     </div>
   );
